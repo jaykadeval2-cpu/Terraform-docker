@@ -53,4 +53,5 @@ Newer Portainer versions need a one-time setup token, found with `docker logs te
 - **Setup token.** Portainer generates a one-time token at startup and prints it in the container logs. I read it with `docker logs`.
 
 Screenshot of Portainer
-[!](screenshot/portner.png)
+### Portainer dashboard
+![portainer](screenshot/portner.png)
